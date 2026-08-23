@@ -1,8 +1,8 @@
-// Cascading shift with mixed input
+// Full Name Input Repair(Cascading shift after mixed input)
 
 import java.util.Scanner;
 
-public class cascadingShiftWithMixedInput {
+public class fullNameInputRepair {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
